@@ -1,0 +1,253 @@
+* {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  justify-content: center;
+  padding-top: 4.5%;
+  padding-left: 25%;
+}
+
+
+table {
+  border: 1px solid #DDDDDD;
+  border-collapse: collapse;
+  
+}
+
+tr {
+  text-align: center;
+  border: 1px solid #DDDDDD;
+}
+
+td {
+  width: 45px;
+}
+
+th {
+  color: #999999;
+  font-size: 13px;
+  text-align: center;
+}
+
+label {
+  font-size: 10px;
+  color: #8F8F8F;
+  text-align: left;
+  font-weight: lighter;
+}
+
+
+.separacao {
+  border-bottom: 2px solid #CCCCCC;
+}
+
+.classificacao {
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+}
+
+.time {
+  font-weight: bold;
+  font-size: 14px;
+  color: #666666;
+  text-align: left;
+  width: 30%;
+}
+
+.pontos {
+  background-color: #F7F7F7;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.coluna-comum {
+  color: #666666;
+  font-size: 14px;
+  text-align: center;
+}
+
+.coluna-sombra {
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+  background-color: #F7F7F7;
+}
+
+.libertadores {
+  color: #003366;
+}
+
+.pre-libertadores {
+  color: #1398BE;
+}
+
+.sul-americana {
+  color: #DE9800;
+}
+
+.não-classificados {
+  color: #CCCCCC;
+}
+
+.rebaixados {
+  color: #C91B04;
+}
+
+.fa-square {
+  font-size: 11px;
+}
+
+.info-legendas {
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {
+    font-family: Arial;
+    box-sizing: border-box;
+    margin: 0;
+    border-color: #DDDDDD;
+    text-align: center; 
+
+  
+  }
+
+  body {
+    justify-content: center;
+    padding-top: 80px;
+    padding-left: 25%;
+    padding-right: 25%;
+  }
+
+  table {
+    border-collapse: collapse;
+    border: 1px solid;
+    color: #DDDDDD;
+    
+  }
+ 
+  .cabecalho {
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+  }
+
+  .time{
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  td {
+    font-size: 14px;
+    color: #666666;
+  }
+
+  th {
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;   
+  }
+
+  .classificação {
+    font-size: 18px;
+    font-weight: bold;
+    
+  }
+
+  .pontos {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    background-color: #f7f7f7; 
+  }
+
+  .colunas {
+    background-color: #f7f7f7;
+
+  }
+
+  .info-legenda {
+    font-size: 10px;
+    color: black;
+  }
+
+  #libertadores {
+    color: #003366
+  }
+  .legenda-libertadores{
+    color: #003366
+  }
+
+  #pre-libertadores {
+    color: #1398be
+  }
+
+  .legenda-prelibertadores {
+    color: #1398be
+  }
+  
+  #sul-americana {
+    color: #DE9800
+  }
+
+  .legenda-sulamericana {
+    color: #DE9800
+  }
+
+  #não-classificados {
+    color: #CCCCCC
+  }
+
+  #rebaixados {
+    color: #c91b04
+  }
+
+  .legenda-rebaixados {
+    color: #c91b04
+  }
+
+  .pl-3 {
+    padding-left: 3px;
+}
+
+  /*
